@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "userbackend",
+    "password": "superpassword",
+    "database": "trabajo",
+    "host": "localhost",
+    "dialect": "mariadb"
+  },
+  "test": {
+    "username": "userbackend",
+    "password": "superpasswordtest",
+    "database": "trabajotest",
+    "host": "localhost",
+    "dialect": "mariadb"
+  },
+  "production": {
+    "username": "userbackend",
+    "password": "superpasswordproduction",
+    "database": "trabajoproduction",
+    "host": "localhost",
+    "dialect": "mariadb"
+  }
+}
